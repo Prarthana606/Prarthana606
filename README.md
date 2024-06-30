@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prarthana606
-- 👀 I’m interested in Web Development and App Development 
-- 🌱 I’m currently learning JavaScript and React
+- 👀 I’m interested in Backend Web Development 
+- 🌱 I’m currently learning Nodejs and Expressjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
